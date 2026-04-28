@@ -1,4 +1,4 @@
-## Hi  👋 i 'am Anuja Chitode
+## Hi  👋 I'm Anuja Chitode
 
 <!--
 **AnujaChitode/AnujaChitode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
